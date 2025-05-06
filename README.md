@@ -1,2 +1,3 @@
 # EspritMaitre
-MasterMind avec deux 
+MasterMind avec deux agents
+
